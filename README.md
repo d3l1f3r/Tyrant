@@ -19,7 +19,7 @@ For more information and downloads, visit: [Tyrant GitHub](https://github.com/Ma
 First, install the dependencies:
 
 ```
-# sudo apt-get install zlib1g-dev libzstd-dev
+# sudo apt-get install zlib1g-dev libzstd-dev libssl-dev
 ```
 
 Then compile Tyrant:
